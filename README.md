@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Chingiz Dadashev 👋  
+🚀 Aspiring Software Engineer | C++ | Python | Java | SQL | Open Source Contributor  
 
-<!--
-**Chingiz-CO/Chingiz-CO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔥 About Me
+🎓 Software Engineer passionate about building scalable applications and solving complex problems.
+💻 Experienced with C++, Python, Java, SQL, and backend development.
+🌱 Currently learning advanced system design.
+🤝 Open to collaboration on open-source projects and software engineering challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tech Stack
+Languages: C++(Advanced), Python, Java, SQL
+Frameworks: Qt, Spring Boot, Flask, Django
+Tools: Git, Docker, CMake, Visual Studio, VS Code
+
+📫 Let's Connect!
