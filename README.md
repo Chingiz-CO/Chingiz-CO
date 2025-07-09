@@ -15,3 +15,6 @@ Frameworks: Qt, Spring Boot, Flask, Django
 Tools: Git, Docker, CMake, Visual Studio, VS Code
 
 📫 Let's Connect!
+
+📫 Reach me at: [01chingiz20@gmail.com](mailto:01chingiz20@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/chingiz-dadashev-3886b4288](https://linkedin.com/in/chingiz-dadashev-3886b4288)
